@@ -14,5 +14,5 @@ I'd prefer the last ones actually: Display the first 10 lines of /etc/passwd
 Task 6:
 Line#2: Write a script that displays the third line of the file iacta. The file iacta will be in the working directory
 Task 7:
-Write a shell script that creates a file named exactly  containing the text Best School in a new line.
+Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)  containing the text Best School in a new line.
 
