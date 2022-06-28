@@ -10,5 +10,11 @@ Unless stated, all your projects will be auto-corrected with Ubuntu 20.04 LTS
 
 | Task 2: Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program
 
-| Task 3: Create a script that counts the number of directories in the PATH.
+| Task 3: Create a script that counts the number of directories in the PATH
+
+| Task 4:Create a script that lists environment variables.
+
+| Task 5: Create a script that lists all local variables and environment variables, and functions
+
+| Task 6: Create a script that creates a new local variable.
 
