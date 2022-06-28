@@ -1,2 +1,2 @@
 #!/bin/bash
-greg -w "root" /etc/passwd
+greg -i "root" /etc/passwd
